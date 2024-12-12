@@ -1,16 +1,19 @@
-## Hi there 👋
+# About Me
 
-<!--
-**ulookuglynoob/ulookuglynoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Rafan Shah**, a passionate **programmer** who enjoys working on creative projects and exploring new opportunities. Some languages I program in are **HTML, CSS, Javascript, Dart, Python, and C++**, and I'm always eager to connect with others!
 
-Here are some ideas to get you started:
+## About This Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is my personal website, where you can learn more about me, my work, and how to get in touch. 
+
+Visit the website here: [ulookuglynoob.github.io](https://ulookuglynoob.github.io/)
+
+
+## Contact Me
+
+Feel free to reach out to me via:
+- **Email**: [ulookuglynoob@email.com](mailto:ulookuglynoob@email.com)
+
+---
+
+Thank you for visiting my bio!
